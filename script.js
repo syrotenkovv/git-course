@@ -1,0 +1,1 @@
+ducument.body.innetHTML= '<h1>Hello from JavaScript</hq>'
